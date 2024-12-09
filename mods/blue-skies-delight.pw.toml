@@ -1,0 +1,13 @@
+name = "Blue Skies Delight"
+filename = "blueskiesdelight-1.0.3.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SGK2LJDD/versions/MSKrdnC2/blueskiesdelight-1.0.3.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "574e9308861a46c9904bbaa0fb0ce3b855d2b65bef8ba36ffe8fa41a426f4bd40a05226c96b7cebe43108cac3344de0c4976a9ad727ca24e6f2d8e677c074d17"
+
+[update]
+[update.modrinth]
+mod-id = "SGK2LJDD"
+version = "MSKrdnC2"

@@ -1,0 +1,13 @@
+name = "Dimensional Ascension - Blue Skies Tetra Compatibility"
+filename = "dimasctetracompat-1.20.1-1.4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7aRNsEHq/versions/wI0SnY2B/dimasctetracompat-1.20.1-1.4.0.1.jar"
+hash-format = "sha512"
+hash = "c0b23b8ff067e164250a932b3257734eced0357c7f76f2f934b8bc56d619fc5797696dfc91d77cc497cb3bf0ccdbd0d69529e9b8e1f2400e4a58ce4452779ad5"
+
+[update]
+[update.modrinth]
+mod-id = "7aRNsEHq"
+version = "wI0SnY2B"

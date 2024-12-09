@@ -1,0 +1,13 @@
+name = "McMouser"
+filename = "mcmouser-1.20-forge-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXReRvgU/versions/mhWe3rxI/mcmouser-1.20-forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "039bc70ed687028e9d7fb1451313f9fbab9ff5310a4f7928538672e941c6568afbe48c874f3fe62a0eab8f9acd1a560b8e6c70fa9dd2b2066c048b2718aebcbc"
+
+[update]
+[update.modrinth]
+mod-id = "aXReRvgU"
+version = "mhWe3rxI"

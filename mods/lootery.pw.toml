@@ -1,0 +1,13 @@
+name = "Lootery"
+filename = "lootery-v2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rKtVCJun/versions/8gujkLaW/lootery-v2.jar"
+hash-format = "sha512"
+hash = "5093400ef5de69f089c1d52db7b139007179cf3f8016d601d86ad5ee0be8a2f0ff21b8ddcc64c504a638e4232c6bd546498c5f7417a6c55f4c25dc78ab5356b6"
+
+[update]
+[update.modrinth]
+mod-id = "rKtVCJun"
+version = "8gujkLaW"

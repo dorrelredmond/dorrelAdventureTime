@@ -1,0 +1,13 @@
+name = "Forbidden and Arcanus Delight"
+filename = "forbiddenandarcanusdelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WgTP5GBd/versions/D2mXfKeK/forbiddenandarcanusdelight-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "4de35ecd7973becd5898398b8a265390eb8ee73d38069da0392011af4533eb5dcddbbd8be681944717ddb2062ca8954f1e945549cb3764000e5531c3580d84c5"
+
+[update]
+[update.modrinth]
+mod-id = "WgTP5GBd"
+version = "D2mXfKeK"

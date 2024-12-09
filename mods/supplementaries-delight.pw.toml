@@ -1,0 +1,13 @@
+name = "Supplementaries Delight"
+filename = "supplementariesdelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SivjJhqG/versions/SQjZEEPa/supplementariesdelight-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "d97232aeb651785ebf80d4b1aec4ab0ef71f236218a9866de36e095e56cd90313c7ffdb2048bdaa6f1c3746c2f1a3c56343efc8d049fea605e72b18586c0671b"
+
+[update]
+[update.modrinth]
+mod-id = "SivjJhqG"
+version = "SQjZEEPa"

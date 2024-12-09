@@ -1,0 +1,13 @@
+name = "Vanilla Cookbook"
+filename = "VanillaCookbook-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YWn7nNrm/versions/UntnHU3I/VanillaCookbook-2.2.2.jar"
+hash-format = "sha512"
+hash = "1ca0a4585938f45d70c24ba1ec55fe0103c30c88660e3f044130d140712b2e350c11410c86450f203922f885dd715e6a13703a488e09b3ed9272d24c5c06fb0c"
+
+[update]
+[update.modrinth]
+mod-id = "YWn7nNrm"
+version = "UntnHU3I"

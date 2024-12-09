@@ -1,0 +1,13 @@
+name = "Exquisito"
+filename = "exquisito-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r9DlSEOy/versions/qE2iHwVh/exquisito-1.20.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "94aeefcd36c37f63fe74919bd2a92f30731f085195ff032a01a6172c57005127310632751b2d5935f09ee54c5f1dd3f2972918cdab7c06b659e53a1c9651c6f2"
+
+[update]
+[update.modrinth]
+mod-id = "r9DlSEOy"
+version = "qE2iHwVh"

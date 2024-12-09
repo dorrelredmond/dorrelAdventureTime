@@ -1,0 +1,13 @@
+name = "Mekanism Delight"
+filename = "mekanismdelight-1.0.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H7aqXBWR/versions/ukQEpgom/mekanismdelight-1.0.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "63d1cc47575578f77213378080a98ed4b05f9d378c3794f85f95378781534d89de856b288f3e8dafca75f7dff8a9222a62c8e401891a805f23075700425e72b1"
+
+[update]
+[update.modrinth]
+mod-id = "H7aqXBWR"
+version = "ukQEpgom"

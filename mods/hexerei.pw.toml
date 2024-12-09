@@ -1,0 +1,13 @@
+name = "Hexerei"
+filename = "hexerei-0.4.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IQSOHVhI/versions/hR4PQb6h/hexerei-0.4.2.1.jar"
+hash-format = "sha512"
+hash = "8bfb63a9ce9ddc595d72eb93a6483036d5e9fbd2f2e251413cf0f1e30ef43dd5833ee5f2f93ae5574995bd061e7af5601f4f13a76d3f90f704292184ff1632ed"
+
+[update]
+[update.modrinth]
+mod-id = "IQSOHVhI"
+version = "hR4PQb6h"

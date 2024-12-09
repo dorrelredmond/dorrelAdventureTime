@@ -1,0 +1,13 @@
+name = "Occultism Delight"
+filename = "occultismdelight-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kjBcUtOo/versions/9z6XMppV/occultismdelight-1.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "ff46b443e57b06547011ef913ac67ee0946ea4f557352e6b8a827b6b73915f581c91f58670cadb2a3b4a2d19d1ad506ad18bb1d971db332de0a9495b9eb5636c"
+
+[update]
+[update.modrinth]
+mod-id = "kjBcUtOo"
+version = "9z6XMppV"

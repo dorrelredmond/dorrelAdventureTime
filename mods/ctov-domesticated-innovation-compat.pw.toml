@@ -1,0 +1,13 @@
+name = "CTOV - Domesticated Innovation Compat"
+filename = "ctov-domesticated-innovation-compat-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BORRKwOq/versions/Te91BHKO/ctov-domesticated-innovation-compat-2.0.jar"
+hash-format = "sha512"
+hash = "56a08afaf4f82e1beec5b92f483ba9b03d22070d4feaeca8d150f871e5683835e546590b9d7b85d0624a4db8e5bec8dc7858001ed444755eb9b34079139b2e71"
+
+[update]
+[update.modrinth]
+mod-id = "BORRKwOq"
+version = "Te91BHKO"

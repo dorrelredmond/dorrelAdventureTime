@@ -1,0 +1,13 @@
+name = "Rats Delight"
+filename = "ratsdelight-1.0.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W6VCuWJq/versions/IpIQHCuD/ratsdelight-1.0.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "68c31ab63576d21d8044864245898141ccecb030e932dbd492140c1de5b39cfd912db11f6f09b855ae7d40cc0d820e002ced94a2952c34570c74dc4e985999d4"
+
+[update]
+[update.modrinth]
+mod-id = "W6VCuWJq"
+version = "IpIQHCuD"

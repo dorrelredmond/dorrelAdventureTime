@@ -1,0 +1,13 @@
+name = "Iron Shulker Boxes"
+filename = "ironshulkerbox-1.20.1-5.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fxaE37Sf/versions/brNPasvu/ironshulkerbox-1.20.1-5.3.2.jar"
+hash-format = "sha512"
+hash = "a66a13e8f5e5c218ca933a1d5e657d687122833974b7d719836fccc988cf648cbcb7f314ded077473e0224c307fb15518c2ead72e4389b9fc450775ba262674f"
+
+[update]
+[update.modrinth]
+mod-id = "fxaE37Sf"
+version = "brNPasvu"

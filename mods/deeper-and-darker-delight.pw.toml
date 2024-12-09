@@ -1,0 +1,13 @@
+name = "Deeper and Darker Delight"
+filename = "deeperdarkerdelight-1.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8HUMWj1a/versions/Se8t961N/deeperdarkerdelight-1.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "934dbf18e9ad03ae2e14f53057bce1d010557443e8eccdaefbfe5bdac264278dcc4a268f5e3533e0e3d3d7a2970eba8a4f09b129907e9fbca803c7bef75d3e26"
+
+[update]
+[update.modrinth]
+mod-id = "8HUMWj1a"
+version = "Se8t961N"

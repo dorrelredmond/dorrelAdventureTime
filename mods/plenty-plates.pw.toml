@@ -1,0 +1,13 @@
+name = "Plenty Plates"
+filename = "PlentyPlates-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VmcdxJxh/versions/mTW7OMMj/PlentyPlates-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "00004593d99e540e58289e29023ae442dddbf9dd7b12e2f4a37f7e9f8701cb726159dd6d9cccdb5848f35be3bbbac0e21dbb78558058a0f21779deef6775bd0e"
+
+[update]
+[update.modrinth]
+mod-id = "VmcdxJxh"
+version = "mTW7OMMj"
