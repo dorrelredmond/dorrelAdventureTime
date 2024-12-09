@@ -1,0 +1,13 @@
+name = "Dorrel's Adventure Time"
+author = "Dorrel Redmond"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "edd13a3cf4983f6d2fb4e2e11c4f2cea1f43fac2b0bdd7a88b6900bd86cc1f22"
+
+[versions]
+forge = "47.3.12"
+minecraft = "1.20.1"
